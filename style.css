@@ -20,7 +20,7 @@ body {
     display: flex;
     justify-content: center;
     margin: 0px;
-    font-family: "Ubuntu Mono", sans-serif;
+    font-family: "Ubuntu Mono", serif;
     transition: 0.3s;
     height: 100vh;
 }
