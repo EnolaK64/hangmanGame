@@ -34,7 +34,7 @@ body[data-theme=light] {
 }
 
 button {
-    font-family: "Space Mono", sans-serif;
+    font-family: "Ubuntu Mono";
 
 }
 
@@ -96,7 +96,7 @@ button {
     border-bottom: 5px #FFF solid;
     margin: 0px;
     margin-right: 5px;
-    font-family: "Space Mono";
+    font-family: "Ubuntu Mono";
 }
 
 #hangman {
