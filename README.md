@@ -37,7 +37,3 @@ Thanks to [Google Icons](https://fonts.google.com/icons) for the icons under the
 Thanks to [Laam1723](https://github.com/Laam1723) for fixing data.json\
 Thanks to [Discord](https://discord.com/) for colors inspiration\
 Thanks to my friends for ideas.
-## License
-
-[hangmanGame](https://enolak64.github.io/hangmanGame/) © 2024 by [EnolaK64](https://github.com/enolak64) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
-
